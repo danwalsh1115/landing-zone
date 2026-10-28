@@ -127,6 +127,7 @@ Start with [`template/landing-zone-template.csv`](template/landing-zone-template
 ## Read next
 
 - [When is a model "good enough"? Landing Zones as evaluation criteria for reinforcement learning](blog/landing-zones-for-rl-model-evaluation.md)
+- [Landing Zone Coach](skills/README.md): a Claude skill that coaches you or your team through building and using a Landing Zone
 
 ---
 
